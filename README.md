@@ -30,7 +30,7 @@ or
 bower install qunit-fixture
 ```
 ### setup
-```
+```html
 <script src="jquery.js"></script>
 <script src="../bower_components/qunit-fixture/fixture.js"></script>
 ```
@@ -40,7 +40,7 @@ bower install qunit-fixture
  - return : (NodeList) childNodes for `#fixture`
 
 ### sample
-```
+```js
 function plusWidth10px( id ){
 	var currentWidth = document.getElementById( id ).style.width;
 	document.getElementById( id ).style.width = currentWidth + 10;
