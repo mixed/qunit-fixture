@@ -1,0 +1,25 @@
+{
+  "name": "qunit-fixture",
+  "description": "A fixture utility for QUnit.",
+  "main": "src/fixture.js",
+  "authors": [
+    "YongWoo Jeon <yongwoo.jeon@navercorp.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "qunit",
+    "fixture"
+  ],
+  "homepage": "https://github.com/mixed/qunit-fixture",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "qunit": "~1.21.0"
+  }
+}

@@ -1,0 +1,10 @@
+.project
+.settings
+*~
+.DS_Store
+build
+dist
+report
+node_modules
+bower_components
+temp
