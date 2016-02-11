@@ -2,6 +2,7 @@
 .settings
 *~
 .DS_Store
+*.log
 build
 dist
 report
